@@ -28,7 +28,7 @@ build:
         push: true
         #dockerfile: ./Dockerfile
         # Specify the path to your Dockerfile
-        tags: moisesgc/webacademy:latest
+        tags: priaragao/wa_fundci_lab03_02:latest
 
 deploy:
   runs-on: ubuntu-latest
